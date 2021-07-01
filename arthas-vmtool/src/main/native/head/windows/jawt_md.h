@@ -26,7 +26,7 @@
 #ifndef _JAVASOFT_JAWT_MD_H_
 #define _JAVASOFT_JAWT_MD_H_
 
-#include <windows.h>
+#include "include/windows.h"
 #include "jawt.h"
 
 #ifdef __cplusplus

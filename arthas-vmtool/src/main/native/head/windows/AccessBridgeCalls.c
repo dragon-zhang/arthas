@@ -32,7 +32,7 @@
  */
 
 
-#include <windows.h>
+#include "include/windows.h"
 #include <jni.h>
 
 

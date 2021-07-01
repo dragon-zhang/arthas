@@ -27,7 +27,7 @@
  * Wrapper functions around calls to the AccessBridge DLL
  */
 
-#include <windows.h>
+#include "include/windows.h"
 #include <jni.h>
 #include "AccessBridgeCallbacks.h"
 #include "AccessBridgePackages.h"

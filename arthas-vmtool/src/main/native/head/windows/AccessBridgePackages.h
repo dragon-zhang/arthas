@@ -32,7 +32,7 @@
 #define __AccessBridgePackages_H__
 
 #include <jni.h>
-#include <windows.h>
+#include "include/windows.h"
 
 #ifdef __cplusplus
 extern "C" {
